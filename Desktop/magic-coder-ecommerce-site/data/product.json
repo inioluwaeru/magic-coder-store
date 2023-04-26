@@ -1,0 +1,60 @@
+{
+    "products": [
+        {
+            "id": "1",
+            "name": "Gen-Z Dell ",
+            "price": "$350",
+            "img": "/products/convertible.png",
+            "qty": "1",
+            "data": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio debitis, minima iure a sint tempore deleniti explicabo? Commodi, temporibus vitae saepe quas, eligendi vero architecto totam beatae voluptates cumque, ea molestiae eveniet veniam excepturi enim quia adipisci modi! Minus est expedita dicta dolores quam amet. Et, reiciendis? Accusamus, nam labore."            
+        },
+        {
+            "id": "2",
+            "name": "HP Gen-Z",
+            "price": "$350",
+            "img": "/products/hp-genz.png",
+            "qty": "1",
+            "data": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio debitis, minima iure a sint tempore deleniti explicabo? Commodi, temporibus vitae saepe quas, eligendi vero architecto totam beatae voluptates cumque, ea molestiae eveniet veniam excepturi enim quia adipisci modi! Minus est expedita dicta dolores quam amet. Et, reiciendis? Accusamus, nam labore."
+        },
+        {
+            "id": "3",
+            "name": "HP Gen-7",
+            "price": "$300",
+            "img": "/products/hp-gen7.png",
+            "qty": "1",
+            "data": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio debitis, minima iure a sint tempore deleniti explicabo? Commodi, temporibus vitae saepe quas, eligendi vero architecto totam beatae voluptates cumque, ea molestiae eveniet veniam excepturi enim quia adipisci modi! Minus est expedita dicta dolores quam amet. Et, reiciendis? Accusamus, nam labore."
+        },
+        {
+            "id": "4",
+            "name": "HP Gen-8",
+            "price": "$450",
+            "img": "/products/hp-gen8.png",
+            "qty": "1",
+            "data": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio debitis, minima iure a sint tempore deleniti explicabo? Commodi, temporibus vitae saepe quas, eligendi vero architecto totam beatae voluptates cumque, ea molestiae eveniet veniam excepturi enim quia adipisci modi! Minus est expedita dicta dolores quam amet. Et, reiciendis? Accusamus, nam labore."
+        },
+        {
+            "id": "5",
+            "name": "Gen-Z Dell convertible",
+            "price": "$350",
+            "img": "/products/hp-gen9.png",
+            "qty": "1",
+            "data": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio debitis, minima iure a sint tempore deleniti explicabo? Commodi, temporibus vitae saepe quas, eligendi vero architecto totam beatae voluptates cumque, ea molestiae eveniet veniam excepturi enim quia adipisci modi! Minus est expedita dicta dolores quam amet. Et, reiciendis? Accusamus, nam labore."
+        },
+        {
+            "id": "6",
+            "name": "Gen-Z Dell convertible",
+            "price": "$350",
+            "img": "/products/hp-gen11.png",
+            "qty": "1",
+            "data": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio debitis, minima iure a sint tempore deleniti explicabo? Commodi, temporibus vitae saepe quas, eligendi vero architecto totam beatae voluptates cumque, ea molestiae eveniet veniam excepturi enim quia adipisci modi! Minus est expedita dicta dolores quam amet. Et, reiciendis? Accusamus, nam labore."
+        },
+        {
+            "id": "7",
+            "name": "Laptop Chargers",
+            "price": "$350",
+            "img": "/products/accesory.png",
+            "qty": "1",
+            "data": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio debitis, minima iure a sint tempore deleniti explicabo? Commodi, temporibus vitae saepe quas, eligendi vero architecto totam beatae voluptates cumque, ea molestiae eveniet veniam excepturi enim quia adipisci modi! Minus est expedita dicta dolores quam amet. Et, reiciendis? Accusamus, nam labore."
+        }
+    ]
+}
